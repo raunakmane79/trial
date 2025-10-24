@@ -1,0 +1,9 @@
+{
+  "name": "vercel-excel-search",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {},
+  "dependencies": {
+    "xlsx": "^0.18.5"
+  }
+}
